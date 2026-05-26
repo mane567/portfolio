@@ -42,7 +42,7 @@ https://mane567.github.io/your-repository-name/
 
 GitHub: https://github.com/mane567
 
-LinkedIn: linkedin.com/in/Nikita Mane  
+LinkedIn: [linkedin.com/in/Nikita Mane  ](https://www.linkedin.com/in/nikitamane11122002)
 
 ---
 
